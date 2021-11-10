@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "vanilla-extract-components-gatsby",
   },
-  plugins: [],
+  plugins: ["@vanilla-extract/babel-plugin"],
 };

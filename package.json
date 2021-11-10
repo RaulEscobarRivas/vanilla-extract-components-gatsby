@@ -15,8 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@vanilla-extract/babel-plugin": "^1.1.2",
     "gatsby": "^4.1.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "vanilla-extract-components": "github:RaulEscobarRivas/vanilla-extract-components"
   }
 }
