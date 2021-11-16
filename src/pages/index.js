@@ -1,6 +1,6 @@
 import * as React from "react"
-import { Link } from "vanilla-extract-components"
-import "vanilla-extract-components/lib/index.css"
+import { Link } from "@tourlane/lui"
+import "@tourlane/lui/lib/index.css"
 
 const IndexPage = () => {
   return (
