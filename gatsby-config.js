@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "vanilla-extract-components-gatsby",
   },
-  plugins: ["gatsby-plugin-vanilla-extract"],
+  plugins: ["@tourlane/lui/gatsby-plugin", "gatsby-plugin-webpack-bundle-analyser-v2"],
 };
